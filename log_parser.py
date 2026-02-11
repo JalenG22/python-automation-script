@@ -7,6 +7,6 @@ with open("sample.log", "r") as file:
     if "Error" in line:
       error_count += 1
 
-Print(f"Total errors found: {error_count}")
+print(f"Total errors found: {error_count}")
 
       
