@@ -1,0 +1,6 @@
+#Sample Log#
+
+INFO Application started
+ERROR Database connection failed
+INFO Retrying connection
+ERROR Timeout occured
